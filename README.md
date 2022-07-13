@@ -4,7 +4,7 @@
 
  - Não, eu não sou uma garota de anime :/ 
  
- -  Nascido e criado em Mato Grosso do Sul
+ - 🧉 Nascido e criado em Mato Grosso do Sul
 
  - 💻 Experiência com desenvolvimento front-end;
 
