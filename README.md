@@ -1,18 +1,21 @@
-### Olá 👋
 
-<h1>João Vitor Pinheiro</h1>
+
+<h1>Olá 👋 </h1>
 
  - Não, eu não sou uma garota de anime :/ 
+ 
+ -  Nascido e criado em Mato Grosso do Sul
 
- - Experiência com desenvolvimento front-end 💻
+ - 💻 Experiência com desenvolvimento front-end;
 
- - Sempre criando projetos ou fazendo desafios, aprendendo coisas novas, 
- me dedicando a ser o melhor que posso 📚
+ - 🔨 Sempre criando projetos pessoais ou fazendo desafios aprendendo coisas novas; 
+ 
+ - 📚 Me dedicando a ser o melhor que posso;
 
- - Pronomes: Ele/dele;
+ - 😄 Pronomes: Ele/dele;
 
 <h2>🧰 Minha Stack</h2> 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,7 +23,7 @@
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </div>
-
+<br>
 <h2>🔗Me encontre aqui</h2>
 
 <a href="https://dev.to/vitorjaum"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
