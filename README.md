@@ -12,8 +12,6 @@
  
  - 📚 Me dedicando a ser o melhor que posso;
 
- - 😄 Pronomes: Ele/dele;
-
 <h2>🧰 Minha Stack</h2> 
 <div style="display: inline_block">
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
