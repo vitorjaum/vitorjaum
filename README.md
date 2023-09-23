@@ -2,7 +2,6 @@
 
 <h1>Olá 👋 </h1>
 
- - Não, eu não sou uma garota de anime :/ 
  
  - 🧉 Nascido e criado em Mato Grosso do Sul;
 
