@@ -1,15 +1,6 @@
+<h1>João Vitor Pinheiro</h1>
 
-
-<h1>Olá 👋 </h1>
-
- 
- - 🧉 Nascido e criado em Mato Grosso do Sul;
-
- - 💻 Experiência com desenvolvimento front-end;
-
- - 🔨 Sempre criando projetos pessoais ou fazendo desafios aprendendo coisas novas; 
- 
- - 📚 Me dedicando a ser o melhor que posso;
+Tenho 22 anos, natural de Dourados, Mato Grosso do Sul, cursei IFMS por alguns meses mas saí antes da conclusão quando apareceu uma oportunidade de desenvolvedor Front-end. Com experiência desenvolvendo aplicativos e páginas web, e depois de uma pausa na minha carreira, faço projetos front-end e gamedev para aprimorar o que aprendi e expandir novos conhecimentos.
 
 <h2>🧰 Minha Stack</h2> 
 <div style="display: inline_block">
